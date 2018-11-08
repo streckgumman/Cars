@@ -1,0 +1,15 @@
+public class Movable{
+	enum direction {NORTH, EAST, SOUTH, WEST}
+
+	public Directions directions = direction.NORTH;
+
+	public void move()
+	
+	public void turnLeft()
+
+	public void turnRight()
+
+
+
+
+}
